@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
 ---
-This is Bao Han's blog
+<h1>This is Bao Han's blog</h1>
